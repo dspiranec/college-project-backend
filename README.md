@@ -1,4 +1,6 @@
-# Laravel+MySQL - Movie app
- -Backend projekt napravljen u Laravelu + MySQL
+# Laravel + MySQL - Movie app
+ -Backend project made in Laravel + MySQL
 
- -Aplikacija za filmove
+ -application for movies, something like imbd
+ 
+ -
