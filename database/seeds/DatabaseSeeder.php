@@ -31,7 +31,7 @@ class DatabaseSeeder extends Seeder
             'director' => 'Ruben Fleischer',
             'imbd' => 6.7,
             'description' => 'A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.',
-            'picture_url' => 'https://wallpaper.to/files/preview/1280x720/51591374072rgduwlujygbr5bopebmglqfqfp88rnokhjbedpffxggrttwagsvqhfr6o9lo6nbzhhfgbp2vss4maefammtrogcxmz4p3yi3usxt.jpg',
+            'picture_url' => 'https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_FMjpg_UX1000_.jpg',
             'trailer_url' => 'https://www.youtube.com/watch?v=u9Mv98Gr5pY',
         ]);
         DB::table('movies')->insert([
